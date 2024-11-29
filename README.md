@@ -26,7 +26,7 @@ Dito isto, veja algumas áreas que você poderá atuar:
 
 Após passar um bom tempo escolhendo o nicho que deseja atuar ~espero que tenha escolhido bem~, você deve achar então que é só pesquisar uma linguagem qualquer, comprar um curso e aprender, né? **<ins>Nada disso!</ins>** Simplesmente se jogar no mundo da programação, sem base nenhuma pode ser um grande problema pra você. Há muitas linguagens e ainda mais palavras e lógicas por trás de um simples curso, por isso, vamos recapitular algumas questões para te manter a par!
 
-Obs<sup>1</sup>: Se você achar que sabe todas as informações do próximo tópico, recomendo [Ir pra cá](#algoritmo).
+Obs<sup>1</sup>: Se você achar que sabe todas as informações do próximo tópico, recomendo [Ir pra cá](#lógica-de-programação).
 
 # Conhecimentos Básicos
 
