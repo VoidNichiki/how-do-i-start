@@ -64,7 +64,7 @@ Dito isto, aqui está uma lista, seguindo as áreas citadas lá encima:
 * **Desenvolvimento Móvel**: Typescript, Dart, R, Java, Swift, C#
 
 * **Ciência de Dados**: Python, R, Julia, SAS, Scala, SQL, MATLAB
-* 
+
 * **Inteligência Artificial e Machine Learning**: Python, R, LISP, Prolog, Haskell, Scala, MATLAB
 
 Esse é o fim! Espero que tenham curtido ler meu artigo, qualquer coisa, visite o discord do mano [Lan Code](https://discord.gg/lancode) tem muito programador por lá. É isso, bye bye! 😃
