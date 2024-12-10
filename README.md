@@ -52,7 +52,6 @@ E ai? Aprendeu bastante? Tá sentindo esse cheiro de código né? Então tá cer
 
 Dito isto, aqui está uma lista, seguindo as áreas citadas lá encima:
 
-* Desenvolvimento Web: 
 * **Desenvolvimento Web**:
   - Front-End: Javascript, HTML, CSS (Não esqueça que HTML e CSS não são linguagens de programação, mas funcionam em conjunto para estruturar um site!)
   - Back-End: Node.JS, Python, Java, Ruby, PHP, .Net (C#), GO, Perl, Rust
